@@ -5,6 +5,8 @@
 --- Version : O.1   ---
 -----------------------
 
+include("lua/vgui/cl_general.lua")
+
 local close = vgui.Create("DButton", general)
 close:SetText("PLAY")
 close:SetTextColor(Color(255,255,255,255))

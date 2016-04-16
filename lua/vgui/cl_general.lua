@@ -1,4 +1,11 @@
-local general = vgui.Create( "Dgeneral" )
+-----------------------
+---- New Life Menu ----
+-----------------------
+--- Auteur : Rhenar ---
+--- Version : O.1   ---
+-----------------------
+
+local general = vgui.Create( "DFrame" )
 general:SetPos( ScrW() /2, ScrW() /2 )
 general:SetSize(  ScrW() /2,  ScrW() /2 )
 general:SetVisible( true )
