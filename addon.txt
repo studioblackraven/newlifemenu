@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Create Perso"
+	"version"			"0.1"
+	"up_date"			"13/04/16"
+	"author_name"			"Rhenar"
+	"author_email"			"contact@studioblackraven.fr"
+	"author_url"			"studioblackraven.fr"
+	"info"				"Creation de personnage"
+	"override"			"0"
+}
